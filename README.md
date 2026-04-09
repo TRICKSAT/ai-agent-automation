@@ -1,5 +1,6 @@
 # AI Agent Automation System
 
+Currently using a mock LLM for testing pipeline architecture.
 A multi-agent automation system using Claude, Gemini, and local LLMs.
 
 ## 🚀 Overview
